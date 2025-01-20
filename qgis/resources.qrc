@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/UrbanDecarb" >
+        <file>icons/PlanCO2.png</file>
+    </qresource>   
+    <qresource prefix="/plugins/UrbanDecarb" >
+        <file>icons/about.png</file>
+    </qresource>
+	<qresource prefix="/plugins/UrbanDecarb" >
+		<file>images/middelfart.jpg</file>
+	</qresource>
+</RCC>

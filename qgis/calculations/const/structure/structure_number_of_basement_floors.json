@@ -1,0 +1,1442 @@
+{
+    "detached house-concrete (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-concrete (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-hybrid timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-hybrid timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-hybrid timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-hybrid timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "detached house-timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-concrete (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-hybrid timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-hybrid timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-hybrid timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-hybrid timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "terraced house-timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "apartment building-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.25
+    },
+    "apartment building-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.000001000000005
+    },
+    "apartment building-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.583333333333336
+    },
+    "apartment building-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.5625
+    },
+    "apartment building-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 28.25
+    },
+    "apartment building-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 27.75
+    },
+    "apartment building-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 28.666667333333336
+    },
+    "apartment building-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.875
+    },
+    "apartment building-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 23.75
+    },
+    "apartment building-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125001000000005
+    },
+    "apartment building-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.583332333333335
+    },
+    "apartment building-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0625
+    },
+    "apartment building-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 36.75
+    },
+    "apartment building-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 30.750001000000005
+    },
+    "apartment building-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 29.916666666666668
+    },
+    "apartment building-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 30.3125
+    },
+    "apartment building-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 23.0
+    },
+    "apartment building-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.625001000000005
+    },
+    "apartment building-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.083332333333335
+    },
+    "apartment building-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 26.625
+    },
+    "office-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.0
+    },
+    "office-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.125
+    },
+    "office-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.74999966666666
+    },
+    "office-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.75
+    },
+    "office-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 24.5
+    },
+    "office-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.375001000000005
+    },
+    "office-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 27.99999933333333
+    },
+    "office-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "office-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 22.5
+    },
+    "office-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125
+    },
+    "office-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.916666000000003
+    },
+    "office-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.5625
+    },
+    "office-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 41.25
+    },
+    "office-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 33.499998999999995
+    },
+    "office-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 32.24999966666667
+    },
+    "office-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 32.3125
+    },
+    "office-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 21.75
+    },
+    "office-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.5
+    },
+    "office-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.333334333333333
+    },
+    "office-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0
+    },
+    "school-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.0
+    },
+    "school-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.125
+    },
+    "school-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.74999966666666
+    },
+    "school-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.75
+    },
+    "school-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 24.5
+    },
+    "school-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.375001000000005
+    },
+    "school-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 27.99999933333333
+    },
+    "school-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "school-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 22.5
+    },
+    "school-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125
+    },
+    "school-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.916666000000003
+    },
+    "school-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.5625
+    },
+    "school-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 41.25
+    },
+    "school-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 33.499998999999995
+    },
+    "school-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 32.24999966666667
+    },
+    "school-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 32.3125
+    },
+    "school-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 21.75
+    },
+    "school-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.5
+    },
+    "school-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.333334333333333
+    },
+    "school-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0
+    },
+    "institution-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.0
+    },
+    "institution-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.125
+    },
+    "institution-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.74999966666666
+    },
+    "institution-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.75
+    },
+    "institution-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 24.5
+    },
+    "institution-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.375001000000005
+    },
+    "institution-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 27.99999933333333
+    },
+    "institution-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "institution-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 22.5
+    },
+    "institution-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125
+    },
+    "institution-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.916666000000003
+    },
+    "institution-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.5625
+    },
+    "institution-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 41.25
+    },
+    "institution-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 33.499998999999995
+    },
+    "institution-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 32.24999966666667
+    },
+    "institution-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 32.3125
+    },
+    "institution-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 21.75
+    },
+    "institution-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.5
+    },
+    "institution-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.333334333333333
+    },
+    "institution-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0
+    },
+    "retail-concrete (load bearing)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 66.5
+    },
+    "retail-concrete (load bearing)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 16.128,
+        "foundation": 48.750001000000005
+    },
+    "retail-concrete (load bearing)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 43.75
+    },
+    "retail-concrete (load bearing)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 17.983,
+        "foundation": 42.0625
+    },
+    "retail-concrete (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 29.5
+    },
+    "retail-concrete (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 16.128,
+        "foundation": 29.75
+    },
+    "retail-concrete (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 30.833334333333333
+    },
+    "retail-concrete (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 16.128,
+        "foundation": 32.0625
+    },
+    "retail-hybrid timber (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 10.108,
+        "foundation": 26.75
+    },
+    "retail-hybrid timber (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 13.118001,
+        "foundation": 27.625001000000005
+    },
+    "retail-hybrid timber (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 28.833333
+    },
+    "retail-hybrid timber (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 14.623,
+        "foundation": 30.1875
+    },
+    "retail-timber (load bearing)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 10.108,
+        "foundation": 52.0
+    },
+    "retail-timber (load bearing)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 13.118001,
+        "foundation": 40.25
+    },
+    "retail-timber (load bearing)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 37.25000066666667
+    },
+    "retail-timber (load bearing)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 14.623,
+        "foundation": 36.5
+    },
+    "retail-timber (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 10.108,
+        "foundation": 26.25
+    },
+    "retail-timber (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.999998999999995
+    },
+    "retail-timber (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 28.25
+    },
+    "retail-timber (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "parking-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.0
+    },
+    "parking-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.125
+    },
+    "parking-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.74999966666666
+    },
+    "parking-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.75
+    },
+    "parking-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 24.5
+    },
+    "parking-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.375001000000005
+    },
+    "parking-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 27.99999933333333
+    },
+    "parking-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "parking-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 22.5
+    },
+    "parking-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125
+    },
+    "parking-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.916666000000003
+    },
+    "parking-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.5625
+    },
+    "parking-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 41.25
+    },
+    "parking-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 33.499998999999995
+    },
+    "parking-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 32.24999966666667
+    },
+    "parking-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 32.3125
+    },
+    "parking-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 21.75
+    },
+    "parking-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.5
+    },
+    "parking-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.333334333333333
+    },
+    "parking-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0
+    },
+    "industry-concrete (load bearing)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 36.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 93.75
+    },
+    "industry-concrete (load bearing)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 64.250001
+    },
+    "industry-concrete (load bearing)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 31.36,
+        "vertical (below ground)": 18.601333333333333,
+        "foundation": 55.50000066666667
+    },
+    "industry-concrete (load bearing)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 30.66,
+        "vertical (below ground)": 19.838,
+        "foundation": 51.75
+    },
+    "industry-concrete (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 36.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 34.75
+    },
+    "industry-concrete (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 34.499998999999995
+    },
+    "industry-concrete (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 31.36,
+        "vertical (below ground)": 18.601333333333333,
+        "foundation": 35.5
+    },
+    "industry-concrete (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 30.66,
+        "vertical (below ground)": 19.838,
+        "foundation": 36.625
+    },
+    "industry-hybrid timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-hybrid timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-hybrid timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-hybrid timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-timber (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-timber (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-timber (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-timber (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "industry-timber (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 36.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 31.0
+    },
+    "industry-timber (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 31.125001000000005
+    },
+    "industry-timber (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 31.36,
+        "vertical (below ground)": 16.128,
+        "foundation": 32.083334
+    },
+    "industry-timber (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 30.66,
+        "vertical (below ground)": 17.983,
+        "foundation": 33.375
+    },
+    "transport-concrete (load bearing)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 77.0
+    },
+    "transport-concrete (load bearing)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 16.128,
+        "foundation": 54.75
+    },
+    "transport-concrete (load bearing)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 48.25000033333334
+    },
+    "transport-concrete (load bearing)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 17.983,
+        "foundation": 45.8125
+    },
+    "transport-concrete (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 31.75
+    },
+    "transport-concrete (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 16.128,
+        "foundation": 31.75
+    },
+    "transport-concrete (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 32.75000066666667
+    },
+    "transport-concrete (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 17.983,
+        "foundation": 34.0625
+    },
+    "transport-hybrid timber (framed)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-hybrid timber (framed)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-hybrid timber (framed)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-hybrid timber (framed)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-timber (load bearing)-1": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-timber (load bearing)-2": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-timber (load bearing)-3": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-timber (load bearing)-4": {
+        "slab (below ground)": 0.0,
+        "beam (below ground)": 0.0,
+        "vertical (below ground)": 0.0,
+        "foundation": 0.0
+    },
+    "transport-timber (framed)-1": {
+        "slab (below ground)": 229.6875,
+        "beam (below ground)": 32.76,
+        "vertical (below ground)": 16.128,
+        "foundation": 27.75
+    },
+    "transport-timber (framed)-2": {
+        "slab (below ground)": 213.28125,
+        "beam (below ground)": 30.660000000000004,
+        "vertical (below ground)": 16.128,
+        "foundation": 28.249998999999995
+    },
+    "transport-timber (framed)-3": {
+        "slab (below ground)": 207.8125,
+        "beam (below ground)": 29.96,
+        "vertical (below ground)": 16.128,
+        "foundation": 29.500000999999997
+    },
+    "transport-timber (framed)-4": {
+        "slab (below ground)": 205.078124,
+        "beam (below ground)": 29.61,
+        "vertical (below ground)": 16.128,
+        "foundation": 30.75
+    },
+    "hotel-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.25
+    },
+    "hotel-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.000001000000005
+    },
+    "hotel-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.583333333333336
+    },
+    "hotel-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.5625
+    },
+    "hotel-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 28.25
+    },
+    "hotel-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 27.75
+    },
+    "hotel-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 28.666667333333336
+    },
+    "hotel-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.875
+    },
+    "hotel-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 23.75
+    },
+    "hotel-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125001000000005
+    },
+    "hotel-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.583332333333335
+    },
+    "hotel-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0625
+    },
+    "hotel-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 36.75
+    },
+    "hotel-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 30.750001000000005
+    },
+    "hotel-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 29.916666666666668
+    },
+    "hotel-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 30.3125
+    },
+    "hotel-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 23.0
+    },
+    "hotel-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.625001000000005
+    },
+    "hotel-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.083332333333335
+    },
+    "hotel-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 26.625
+    },
+    "hospital-concrete (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 55.0
+    },
+    "hospital-concrete (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 42.125
+    },
+    "hospital-concrete (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 38.74999966666666
+    },
+    "hospital-concrete (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 37.75
+    },
+    "hospital-concrete (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 24.5
+    },
+    "hospital-concrete (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118001,
+        "foundation": 26.375001000000005
+    },
+    "hospital-concrete (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.121333333333334,
+        "foundation": 27.99999933333333
+    },
+    "hospital-concrete (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 14.623,
+        "foundation": 29.5625
+    },
+    "hospital-hybrid timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 22.5
+    },
+    "hospital-hybrid timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 24.125
+    },
+    "hospital-hybrid timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.916666000000003
+    },
+    "hospital-hybrid timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.5625
+    },
+    "hospital-timber (load bearing)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 41.25
+    },
+    "hospital-timber (load bearing)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 33.499998999999995
+    },
+    "hospital-timber (load bearing)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 32.24999966666667
+    },
+    "hospital-timber (load bearing)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 32.3125
+    },
+    "hospital-timber (framed)-1": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.108,
+        "foundation": 21.75
+    },
+    "hospital-timber (framed)-2": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 10.107999,
+        "foundation": 23.5
+    },
+    "hospital-timber (framed)-3": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 12.114666666666666,
+        "foundation": 25.333334333333333
+    },
+    "hospital-timber (framed)-4": {
+        "slab (below ground)": 196.875,
+        "beam (below ground)": 28.56,
+        "vertical (below ground)": 13.118,
+        "foundation": 27.0
+    }
+}

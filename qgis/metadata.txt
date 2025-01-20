@@ -1,0 +1,55 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=PlanCO2
+qgisMinimumVersion=3.24
+qgisMaximumVersion=3.99
+description=PlanCO2. Et CO<sub>2</sub>-beregningsværktøj for planlæggere
+version=1.01
+dbversion = 1.00
+#versiondate i format: dd-mm-yyyy
+versiondate=22-11-2024
+#versiondate i et SQL venligt format: mm/dd/yyyy
+versiondateSQL=11/22/2024
+author=Rambøll
+email=jcn@ramboll.dk
+
+#about=Denne plugin er afhængig af en række python-packages. Før den kan bruges skal du i QGIS menuen vælge: "Plugins | Python Console" Her skrives følgende:
+#
+#    import pip
+#    pip.main(["install","tabulate","tensorflow", "joblib", "scikit-learn"])
+#
+#    Herefter kontrolleres om de ønskede packages er blevet installeret. Dette gøres med kommandoen:
+#
+#    import tabulate
+#    import tensorflow
+#    import joblib
+#    import sklearn
+
+#tracker=-
+#repository=-
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=
+
+homepage=
+category=Plugins
+icon=icons/PlanCO2.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

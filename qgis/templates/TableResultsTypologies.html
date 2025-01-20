@@ -1,0 +1,210 @@
+<style>
+    th, td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell1 {
+        background-color: #D0CDBD;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell1a {
+        background-color: #D0CDBD;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell2 {
+        background-color: #E3E1D8;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell2a {
+        background-color: #E3E1D8;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: left;
+        font-size: 14px;
+    }
+    .clsCell3 {
+        background-color: #D9D9D9;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 1px;
+        border: 1px solid black;
+        text-align: right;
+        font-size: 14px;
+    }
+</style>
+<body style="margin: 0;padding: 0">
+	<table style="border: 1px solid black" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td colspan="5" class="clsCell1"><b>Resultater for typologi (primær funktion)</b></td>
+		</tr>
+		<tr>
+			<td class="clsCell1">Resultater</td>
+			<td class="clsCell1">Total</td>
+			<td class="clsCell1">Pr. areal</td>
+			<td class="clsCell1">Pr. person</td>
+			<td class="clsCell1">Andel</td>
+		</tr>
+		<tr>
+			<td class="clsCell2">Enhed</td>
+			<td class="clsCell2">[tons CO<sub>2</sub>e]</td>
+			<td class="clsCell2">[kg CO<sub>2</sub>e/m<sup>2</sup>/år]</td>
+			<td class="clsCell2">[kg CO<sub>2</sub>e/person/år]</td>
+			<td class="clsCell2">[[% to_string('%') %]]</td>
+		</tr>
+		<tr>
+			<td class="clsCell1" colspan="5" style="text-align: left">Bygninger</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Enfamiliehus</td>
+			<td class="clsCell3">#DetachedHouseTot#</td>
+			<td class="clsCell3">#DetachedHouseTotM2Year#</td>
+			<td class="clsCell3">#DetachedHouseTotPersonYear#</td>
+			<td class="clsCell3">#DetachedHouseAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Rækkehus</td>
+			<td class="clsCell3">#TerracedHouseTot#</td>
+			<td class="clsCell3">#TerracedHouseTotM2Year#</td>
+			<td class="clsCell3">#TerracedHouseTotPersonYear#</td>
+			<td class="clsCell3">#TerracedHouseAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Etagebolig</td>
+			<td class="clsCell3">#ApartmentTot#</td>
+			<td class="clsCell3">#ApartmentTotM2Year#</td>
+			<td class="clsCell3">#ApartmentTotPersonYear#</td>
+			<td class="clsCell3">#ApartmentAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Kontor</td>
+			<td class="clsCell3">#OfficeTot#</td>
+			<td class="clsCell3">#OfficeTotM2Year#</td>
+			<td class="clsCell3">#OfficeTotPersonYear#</td>
+			<td class="clsCell3">#OfficeAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Undervisning</td>
+			<td class="clsCell3">#SchoolTot#</td>
+			<td class="clsCell3">#SchoolTotM2Year#</td>
+			<td class="clsCell3">#SchoolTotPersonYear#</td>
+			<td class="clsCell3">#SchoolAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Daginstitution</td>
+			<td class="clsCell3">#InstitutionTot#</td>
+			<td class="clsCell3">#InstitutionTotM2Year#</td>
+			<td class="clsCell3">#InstitutionTotPersonYear#</td>
+			<td class="clsCell3">#InstitutionAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Butik</td>
+			<td class="clsCell3">#RetailTot#</td>
+			<td class="clsCell3">#RetailTotM2Year#</td>
+			<td class="clsCell3">#RetailTotPersonYear#</td>
+			<td class="clsCell3">#RetailAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Parkering</td>
+			<td class="clsCell3">#ParkingTot#</td>
+			<td class="clsCell3">#ParkingTotM2Year#</td>
+			<td class="clsCell3">#ParkingTotPersonYear#</td>
+			<td class="clsCell3">#ParkingAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Industri</td>
+			<td class="clsCell3">#IndustryTot#</td>
+			<td class="clsCell3">#IndustryTotM2Year#</td>
+			<td class="clsCell3">#IndustryTotPersonYear#</td>
+			<td class="clsCell3">#IndustryAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Transport</td>
+			<td class="clsCell3">#TransportTot#</td>
+			<td class="clsCell3">#TransportTotM2Year#</td>
+			<td class="clsCell3">#TransportTotPersonYear#</td>
+			<td class="clsCell3">#TransportAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Hotel</td>
+			<td class="clsCell3">#HotelTot#</td>
+			<td class="clsCell3">#HotelTotM2Year#</td>
+			<td class="clsCell3">#HotelTotPersonYear#</td>
+			<td class="clsCell3">#HotelAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Sundhedshuse</td>
+			<td class="clsCell3">#HospitalTot#</td>
+			<td class="clsCell3">#HospitalTotM2Year#</td>
+			<td class="clsCell3">#HospitalTotPersonYear#</td>
+			<td class="clsCell3">#HospitalAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Nedrivning</td>
+			<td class="clsCell3">#DemolitionTot#</td>
+			<td class="clsCell3">#DemolitionTotM2Year#</td>
+			<td class="clsCell3">#DemolitionTotPersonYear#</td>
+			<td class="clsCell3">#DemolitionAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell1a" colspan="5" style="text-align: left">Veje og andre hårde overflader</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Veje og stier</td>
+			<td class="clsCell3">#RoadsTot#</td>
+			<td class="clsCell3">#RoadsTotM2Year#</td>
+			<td class="clsCell3">#RoadsTotPersonYear#</td>
+			<td class="clsCell3">#RoadsAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Befæstede ubebyggede arealer</td>
+			<td class="clsCell3">#HardTot#</td>
+			<td class="clsCell3">#HardTotM2Year#</td>
+			<td class="clsCell3">#HardTotPersonYear#</td>
+			<td class="clsCell3">#HardAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell1a" colspan="5" style="text-align: left">Landskab og andre grønne overflader</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Grønne ubebyggede arealer</td>
+			<td class="clsCell3">#GreenTot#</td>
+			<td class="clsCell3">#GreenTotM2Year#</td>
+			<td class="clsCell3">#GreenTotPersonYear#</td>
+			<td class="clsCell3">#GreenAndel#</td>
+		</tr>
+		<tr>
+			<td class="clsCell2a">Træer og buske</td>
+			<td class="clsCell3">#TreesTot#</td>
+			<td class="clsCell3">#TreesTotM2Year#</td>
+			<td class="clsCell3">#TreesTotPersonYear#</td>
+			<td class="clsCell3">#TreesAndel#</td>
+		</tr>
+	</table>
+</body>

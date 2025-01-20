@@ -1,0 +1,107 @@
+<style>
+    th, td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell1 {
+        background-color: #D0CDBD;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell2 {
+        background-color: #E3E1D8;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 14px;
+    }
+    .clsCell2a {
+        background-color: #E3E1D8;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 0px;
+        border: 1px solid black;
+        text-align: left;
+        font-size: 14px;
+    }
+    .clsCell3 {
+        background-color: #D9D9D9;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 1px;
+        border: 1px solid black;
+        text-align: right;
+        font-size: 14px;
+    }
+</style>
+<body style="margin: 0;padding: 0">
+  <table style="border: 1px solid black" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="5" class="clsCell1"><b>Totale resultater</b></td>
+    </tr>
+    <tr>
+      <td class="clsCell1">Resultater</td>
+      <td class="clsCell1">Total</td>
+      <td class="clsCell1">Pr. areal</td>
+      <td class="clsCell1">Pr. person</td>
+      <td class="clsCell1">Andel</td>
+    </tr>
+    <tr>
+      <td class="clsCell2">Enhed</td>
+      <td class="clsCell2">[tons CO<sub>2</sub>e]</td>
+      <td class="clsCell2">[kg CO<sub>2</sub>e/m<sup>2</sup>/år]</td>
+      <td class="clsCell2">[kg CO<sub>2</sub>e/person/år]</td>
+      <td class="clsCell2">[[% to_string('%') %]]</td>
+    </tr>
+    <tr>
+      <td class="clsCell2a">Bygninger</td>
+      <td class="clsCell3">#BuildingsEmissionsTotal#</td>
+      <td class="clsCell3">#BuildingsEmissionsTotalM2Year#</td>
+      <td class="clsCell3">#BuildingsEmissionsTotalPersonYear#</td>
+      <td class="clsCell3">#BuildingsAndel#</td>
+    </tr>
+    <tr>
+      <td class="clsCell2a">Veje og andre hårde overflader</td>
+      <td class="clsCell3">#HardSurfacesEmissionsTotal#</td>
+      <td class="clsCell3">#HardSurfacesEmissionsTotalM2Year#</td>
+      <td class="clsCell3">#HardSurfacesEmissionsTotalPersonYear#</td>
+      <td class="clsCell3">#HardSurfacesAndel#</td>
+    </tr>
+    <tr>
+      <td class="clsCell2a">Landskab og andre grønne overflader</td>
+      <td class="clsCell3">#GreenSurfacesEmissionsTotal#</td>
+      <td class="clsCell3">#GreenSurfacesEmissionsTotalM2Year#</td>
+      <td class="clsCell3">#GreenSurfacesEmissionsTotalPersonYear#</td>
+      <td class="clsCell3">#GreenSurfacesAndel#</td>
+    </tr>
+    <tr>
+      <td class="clsCell2a">Delområder</td>
+      <td class="clsCell3">#SubareasEmissionsTotal#</td>
+      <td class="clsCell3">#SubareasEmissionsTotalM2Year#</td>
+      <td class="clsCell3">#SubareasEmissionsTotalPersonYear#</td>
+      <td class="clsCell3">#SubareasAndel#</td>
+    </tr>
+    <tr>
+      <td class="clsCell2a">Total</td>
+      <td class="clsCell3">#TotalEmissionsTotal#</td>
+      <td class="clsCell3">#TotalEmissionsTotalM2Year#</td>
+      <td class="clsCell3">#TotalEmissionsTotalPersonYear#</td>
+      <td class="clsCell3">#TotalAndel#</td>
+    </tr>
+  </table>
+</body>

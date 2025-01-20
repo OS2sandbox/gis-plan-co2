@@ -1,0 +1,7 @@
+# region numeric ranges
+AREA_MIN_LANDSCAPE = 1.0
+LENGTH_MIN_LANDSCAPE = 1.0
+WIDTH_MIN_LANDSCAPE = 1.0
+NUM_TREES_MIN = 0
+NUM_SHRUBS_MIN = 0
+# endregion
